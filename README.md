@@ -48,7 +48,7 @@
  
 
        
-<img src="https://img.shields.io/badge/pandas-94B4A4?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-4FC08D?style=for-the-badge&logo=NumPy&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FFA41B?style=for-the-badge&logo=TensorFlow&logoColor=black"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-FF9A76?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Raspberry Pi-7952B3?style=for-the-badge&logo=Raspberry Pi&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00587A?style=for-the-badge&logo=Arduino&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-94B4A4?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-4FC08D?style=for-the-badge&logo=NumPy&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FFA41B?style=for-the-badge&logo=TensorFlow&logoColor=black"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-FF9A76?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Google Cloud-7952B3?style=for-the-badge&logo=Google Cloud&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-00587A?style=for-the-badge&logo=Tableau&logoColor=white">
 
 
 <!---
