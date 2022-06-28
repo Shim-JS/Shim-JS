@@ -18,7 +18,7 @@
   <a href="https://stephenajulu.com"><img src="https://user-images.githubusercontent.com/76824611/133933728-4bb4a26e-52a2-4a46-8ab3-489c241d9ce7.gif" align="right" width="200px"></a> 
        
 * 🖐🏻 Hi I'm **Dongguk Univ** student       
-* 🧸 if you want to know everything about me visit my [**Portfolio**](https://sjs1215.notion.site/)
+* 🧸 if you want to know everything about me visit my [**Portfolio**](https://shimjongsoo.notion.site/)
 * 📫 You can reach me with [@jongsoo1215](https://www.instagram.com/jongsoo1215/) on instagram (Feel free to contact me)
 * 👩🏻‍💻 I’m currently learning HARD about DataScience     
 <!-- * 🏆 The **[competition](https://eswcontest.or.kr/competition/contest_02.php)** that's going on right now is  about **Embedded** with **OpenCV**
@@ -27,7 +27,7 @@
         
 <div align="center">       
 
-<a href="https://sjs1215.notion.site/"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=Shim-JS&show_icons=true&theme=radical&title_color=7E6BC4&bg_color=FFF5EA%border_color=7E6BC4&text_color=C79ECF&count_private=true&icon_color=4A266A" /><!-- wi*quL3fcV --><img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shim-JS&theme=default&ring=7E6BC4&currStreakLabel=7E6BC4&fire=C79ECF" /></a>
+<a href="https://shimjongsoo.notion.site/"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=Shim-JS&show_icons=true&theme=radical&title_color=7E6BC4&bg_color=FFF5EA%border_color=7E6BC4&text_color=C79ECF&count_private=true&icon_color=4A266A" /><!-- wi*quL3fcV --><img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shim-JS&theme=default&ring=7E6BC4&currStreakLabel=7E6BC4&fire=C79ECF" /></a>
 
        
        
