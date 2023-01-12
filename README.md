@@ -17,7 +17,8 @@
  
   <a href="https://shimjongsoo.notion.site"><img src="https://user-images.githubusercontent.com/76824611/133933728-4bb4a26e-52a2-4a46-8ab3-489c241d9ce7.gif" align="right" width="200px"></a> 
        
-* 🖐🏻 Hi I'm **Dongguk Univ** student       
+* 🖐🏻 I'm Researcher in DataPlatForm Team of **HyundaiAutoEver**
+* 👨‍🎓 I earned a bachelor's degree from **Dongguk Univ**       
 * 🧸 if you want to know everything about me visit my [**Portfolio**](https://shimjongsoo.notion.site/)
 * 📫 You can reach me with [@jongsoo1215](https://www.instagram.com/jongsoo1215/) on instagram (Feel free to contact me)
 * 👩🏻‍💻 I’m currently learning HARD about DataScience     
